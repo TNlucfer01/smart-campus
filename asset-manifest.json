@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/TNlucfer01/smart-campus.git/static/css/main.73c1432f.css",
-    "main.js": "/TNlucfer01/smart-campus.git/static/js/main.f429a724.js",
-    "static/js/453.364b4d04.chunk.js": "/TNlucfer01/smart-campus.git/static/js/453.364b4d04.chunk.js",
-    "static/media/studentprofile.png": "/TNlucfer01/smart-campus.git/static/media/studentprofile.69001db5935fd3143d6b.png",
-    "static/media/cultural.png": "/TNlucfer01/smart-campus.git/static/media/cultural.4ab6308636ee04407076.png",
-    "static/media/workshop.png": "/TNlucfer01/smart-campus.git/static/media/workshop.6e27cf325bef6eca87f0.png",
-    "static/media/project_expo.png": "/TNlucfer01/smart-campus.git/static/media/project_expo.3eb855e6141463c77eca.png",
-    "static/media/staff_profile.png": "/TNlucfer01/smart-campus.git/static/media/staff_profile.66c50bd3e004fdd38e92.png",
-    "index.html": "/TNlucfer01/smart-campus.git/index.html",
-    "main.73c1432f.css.map": "/TNlucfer01/smart-campus.git/static/css/main.73c1432f.css.map",
-    "main.f429a724.js.map": "/TNlucfer01/smart-campus.git/static/js/main.f429a724.js.map",
-    "453.364b4d04.chunk.js.map": "/TNlucfer01/smart-campus.git/static/js/453.364b4d04.chunk.js.map"
+    "main.css": "/smart-campus/static/css/main.73c1432f.css",
+    "main.js": "/smart-campus/static/js/main.453ae042.js",
+    "static/js/453.364b4d04.chunk.js": "/smart-campus/static/js/453.364b4d04.chunk.js",
+    "static/media/studentprofile.png": "/smart-campus/static/media/studentprofile.69001db5935fd3143d6b.png",
+    "static/media/cultural.png": "/smart-campus/static/media/cultural.4ab6308636ee04407076.png",
+    "static/media/workshop.png": "/smart-campus/static/media/workshop.6e27cf325bef6eca87f0.png",
+    "static/media/project_expo.png": "/smart-campus/static/media/project_expo.3eb855e6141463c77eca.png",
+    "static/media/staff_profile.png": "/smart-campus/static/media/staff_profile.66c50bd3e004fdd38e92.png",
+    "index.html": "/smart-campus/index.html",
+    "main.73c1432f.css.map": "/smart-campus/static/css/main.73c1432f.css.map",
+    "main.453ae042.js.map": "/smart-campus/static/js/main.453ae042.js.map",
+    "453.364b4d04.chunk.js.map": "/smart-campus/static/js/453.364b4d04.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.73c1432f.css",
-    "static/js/main.f429a724.js"
+    "static/js/main.453ae042.js"
   ]
 }
