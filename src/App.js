@@ -1,26 +1,26 @@
 import React, { useState, useEffect } from "react";
 import { BrowserRouter as Router, Routes, Route, Link, Navigate, Outlet } from "react-router-dom";
-import "./index.css";
+import "./styles/index.css";
 import { AnimatePresence } from "framer-motion";
 import { useLocation } from "react-router-dom";
 import { motion } from "framer-motion"; 
 import Home from "./components/Home";
 import About from "./components/About";
 import { Menu, X } from "lucide-react"; // hamburger & close icons
-import Footer from "./layouts/Footer.js"
-import Announcements from "./components/Announcements";
-import Notes from "./components/Notes";
-import Events from "./components/Events";
-import StudentMarks from "./components/StudentMarks";
-import MarkEntry from "./staff/MarkEntry";
-import DailyAttendance from "./staff/DailyAttendance";
-import Feedback from "./staff/Feedback";
-import UploadNotes from "./staff/UploadNotes";
+import Footer from "./components/layouts/Footer.js"
+import Announcements from "./components/features/Student/Announcements";
+import Notes from "./components/features/Student/Notes";
+import Events from "./components/features/Student/Events";
+import StudentMarks from "./components/features/Student/StudentMarks";
+import MarkEntry from "./components/features/staff/MarkEntry";
+import DailyAttendance from "./components/features/staff/DailyAttendance";
+import Feedback from "./components/features/staff/Feedback";
+import UploadNotes from "./components/features/staff/UploadNotes";
 // ✅ Dark Mode Toggle Component
 
 
-import studentPic from "./assets/profile/studentprofile.png";
-import staffPic from "./assets/profile/staff_profile.png";
+import studentPic from "./assets/image/profile/studentprofile.png";
+import staffPic from "./assets/image/profile/staff_profile.png";
 
 
 const DarkModeToggle = ({ darkMode, toggleDarkMode }) => (
